@@ -1,3 +1,3 @@
-# GrillaLab
+# LabGrilla
 
-Componente de grilla multi-size response.
+Componente de grilla multi-size response seleccionable atraves del teclado o mous.
